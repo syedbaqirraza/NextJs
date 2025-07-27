@@ -1,0 +1,11 @@
+.dialog {
+    z-index: 1 !important;
+        margin-top: 320px;
+}
+.backdrop {
+    background-color: rgb(177, 177, 181);
+    height: 100%;
+    width: 100%;
+    opacity: 0.1;
+    position: absolute;
+} 
